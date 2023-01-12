@@ -45,3 +45,6 @@
        A5                              SCL
                            OUT        ads.A0
                                       ads.A1      out on resistor divider
+
+
+Video can be found here: https://youtu.be/4gHTslpdXQ0
